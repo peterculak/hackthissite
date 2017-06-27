@@ -1,1 +1,1 @@
-hackthissite.org challenges
+Challenges from https://www.hackthissite.org/
